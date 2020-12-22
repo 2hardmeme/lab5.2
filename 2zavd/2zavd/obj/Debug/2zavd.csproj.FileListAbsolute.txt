@@ -1,0 +1,10 @@
+D:\University\ООП\5 laba\2zavd\2zavd\bin\Debug\2zavd.exe.config
+D:\University\ООП\5 laba\2zavd\2zavd\bin\Debug\2zavd.exe
+D:\University\ООП\5 laba\2zavd\2zavd\bin\Debug\2zavd.pdb
+D:\University\ООП\5 laba\2zavd\2zavd\obj\Debug\2zavd.csprojAssemblyReference.cache
+D:\University\ООП\5 laba\2zavd\2zavd\obj\Debug\_2zavd.Form1.resources
+D:\University\ООП\5 laba\2zavd\2zavd\obj\Debug\_2zavd.Properties.Resources.resources
+D:\University\ООП\5 laba\2zavd\2zavd\obj\Debug\2zavd.csproj.GenerateResource.cache
+D:\University\ООП\5 laba\2zavd\2zavd\obj\Debug\2zavd.csproj.CoreCompileInputs.cache
+D:\University\ООП\5 laba\2zavd\2zavd\obj\Debug\2zavd.exe
+D:\University\ООП\5 laba\2zavd\2zavd\obj\Debug\2zavd.pdb
